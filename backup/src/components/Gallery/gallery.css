@@ -1,0 +1,16 @@
+/* gallery.css or App.css */
+.galleryc {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .sliderimage {
+    width: 100%; 
+    align-items: center; /* Ensure images take up the full width of the slide */
+    height: auto; 
+    display: flex; /* Maintain aspect ratio */
+    border-radius: 8px;  /* Optional: rounded corners */
+  }
+  
