@@ -1,6 +1,17 @@
 # portfolio-project-webtech
- My files for webtech portfolio website
-node modules is not includes.
+My files for webtech MERN stack portfolio website
+Written in Javascript , html+css and react.
+contains blog page with :
+- user auth
+- database to hold content and user info
+
+# Node packages used
+---
+- slick carousel for gallery
+- email.js for automatic email scripts
+- express and its dependencies for backend.
+
+node modules is not included.
 do "yarn-install" or "npm-install" in main directory to install all related packages.
 i use nodemon for server calls.
 # Screenshots below 
